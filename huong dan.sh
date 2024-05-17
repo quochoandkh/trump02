@@ -1,5 +1,6 @@
 Khi tạo Coin mới, giải nén và tạo thư mục mới:
 sửa file cần thiết trước khi cài: file: components/nav.jsx dòng 23, chuyển thành tên coin, logo ở dòng 17
+sửa file layout.js phần title dòng 10
 
 npm install --> thêm thư mục node_modules
 

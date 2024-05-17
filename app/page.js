@@ -23,7 +23,7 @@ const Page = () => {
             The new meme coin, create by Trump, TRUMP_COIN may be big coin!!!
           </span>
           <br />
-          <span className='text-secondary'>
+          <span className='text-secondary contract-text'>
             contract: {contract}
           </span>
         </h4>

@@ -322,3 +322,16 @@ Nav{
 .move-up {
   margin-top: -20px; /* Điều chỉnh giá trị này tùy theo yêu cầu của bạn */
 }
+
+/* Đảm bảo dòng văn bản contract tự động xuống dòng nếu quá dài */
+.contract-text {
+  word-break: break-all; /* Hoặc sử dụng break-word nếu bạn muốn ngắt từ theo cách khác */
+  overflow-wrap: break-word; /* Tương tự như word-break: break-all; */
+}
+
+/* Đảm bảo nút Buy Now không bị ẩn */
+.coin-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

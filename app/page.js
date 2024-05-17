@@ -21,7 +21,7 @@ const Page = () => {
         </h1>
         <h4 className='mb-3'>
           <span className='text-primary'>
-            Hồi sinh đồng meme của bạn với $TRUMP – Thổi bùng sự lạc quan từ sự bi quan!
+            The new meme coin, create by Trump, TRUMP_COIN may be big coin!!!
           </span>
           <br />
           <span className='text-secondary'>

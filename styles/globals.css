@@ -318,3 +318,7 @@ Nav{
 .text-secondary {
   color: #6c757d; /* Màu xám */
 }
+
+.move-up {
+  margin-top: -20px; /* Điều chỉnh giá trị này tùy theo yêu cầu của bạn */
+}

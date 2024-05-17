@@ -3,7 +3,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '@styles/globals.css';
 import { Container, Row, Col } from 'react-bootstrap';
-
 import { AiFillTwitterCircle, AiFillGithub, AiFillRedditCircle } from 'react-icons/ai';
 import { BsTelegram } from 'react-icons/bs';
 import Image from 'next/image';
@@ -48,7 +47,7 @@ const Page = () => {
         <Row className='mt-5'>
           <Col>
             <div className='coin-wrapper'>
-              <button className='btn btn-outline-light rounded-pill text-center flex-button btn-flexible'>
+              <button className='btn btn-outline-light rounded-pill text-center flex-button btn-flexible move-up'>
                 <a href={`https://photon-sol.tinyastro.io/en/lp/${LP}`} target='_blank'>Buy Now</a>
                 <Image className="img" src="/assets/icons/buy.svg" width={30} height={30} alt='buy now' />
               </button>

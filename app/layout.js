@@ -7,8 +7,8 @@ import '@styles/globals.css';
 
 
 export const metadata ={
-  title: "AIR PEPE",
-  description: "MEME COIN"
+  title: "TRUMP COIN",
+  description: "THE NEW MEME COIN"
 }
 
 const RootLayout = ({ children }) => {

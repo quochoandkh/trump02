@@ -1,0 +1,14 @@
+Khi tạo Coin mới, giải nén và tạo thư mục mới:
+sửa file cần thiết trước khi cài: file: components/nav.jsx dòng 23, chuyển thành tên coin, logo ở dòng 17
+
+npm install --> thêm thư mục node_modules
+
+nếu next chưa đc cài:
+npm install next react react-dom
+
+npm run dev --> tạo thêm thư mục .next
+
+nếu vẫn có vấn để, cài Next.js toàn cục
+npm install -g next
+
+sau đó vào: http://localhost:3000
